@@ -8,9 +8,10 @@ body {
   max-width: 100%;
 }
 .center-box img {
-  width: 100%;}
+  width: 100%;
+}
 .title {
-  font-size: 30px;
+  font-size: 28px;
   color: #ffffff;
   text-align: center;
   margin: 30px auto 20px;
@@ -19,10 +20,12 @@ body {
   width:100%;
 }
 .img-list li {
+  list-style: none;
   width:48%;
   float: left;
   margin-bottom: 30px;
 }
 .img-list li img {
-  width:100%;}
+  width:100%;
+}
 .img-list li:nth-child(2n) { margin-left: 4%;}
